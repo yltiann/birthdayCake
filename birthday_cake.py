@@ -4,7 +4,6 @@ import turtle as t
 import math as m
 import random as r
 
-
 class Greeting():
     def run(self):
 
